@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "neuronine-ai",
+  "description": "Neuronine AI plugins for Claude Code",
+  "owner": {
+    "name": "neuronine-ai",
+    "url": "https://github.com/neuronine-ai"
+  },
+  "plugins": [
+    {
+      "name": "prime-mind-plugin",
+      "description": "Voiced character interactions via Voicebox TTS — ambient triggers, agent personas, background mode, contextual delivery",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/neuronine-ai/prime-mind-plugin.git",
+        "sha": "b61ccccdc88e42856cd1dc4dea8539799100d479"
+      },
+      "homepage": "https://github.com/neuronine-ai/prime-mind-plugin"
+    }
+  ]
+}
