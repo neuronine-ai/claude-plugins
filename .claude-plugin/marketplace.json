@@ -9,11 +9,11 @@
   "plugins": [
     {
       "name": "prime-mind-plugin",
-      "description": "Voiced character interactions via Voicebox TTS — ambient triggers, agent personas, background mode, contextual delivery",
+      "description": "Voiced character personas via Voicebox TTS — layered architecture with agent type discovery, async voice pipeline, file-locked session state, and 9 purpose-built hooks",
       "source": {
         "source": "url",
         "url": "https://github.com/neuronine-ai/prime-mind-plugin.git",
-        "sha": "dec0066844cee1b702440e9f8d2fc8c2180ab27f"
+        "sha": "91b2aaa7e53019e45c6a46d399acfb26e6d3dd09"
       },
       "homepage": "https://github.com/neuronine-ai/prime-mind-plugin"
     }
