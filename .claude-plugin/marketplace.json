@@ -13,7 +13,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/neuronine-ai/prime-mind-plugin.git",
-        "sha": "8925d67b80c2e8e77191cf59b37ef421523dccad"
+        "sha": "ee432b4fe123e7b865c092f0412a169e4fae127c"
       },
       "homepage": "https://github.com/neuronine-ai/prime-mind-plugin"
     }
